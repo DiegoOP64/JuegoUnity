@@ -1,0 +1,295 @@
+TEMA 2
+¿Cuál es la principal fuente de información para el usuaio?(1)
+-La visión.X
+-El oído.
+-El tacto.
+-Ninguna de las anteriores.
+
+¿Qué combinación de colores se recomienda evitar?(2)
+-Negro-Blanco
+-Blanco-Rojo
+-Azul-AmarilloX
+-Azul-Blanco
+
+El color azul se puede usar para...(2)
+-Estados de peligro y de alarma.
+-Estados estables o neutrales.X
+-Estados de Advertencia.
+-Estados correctos o de movimiento.
+
+El color amarillo se puede usar para...(1)
+-Estados de peligro y de alarma.
+-Estados estables o neutrales.
+-Estados de Advertencia.X
+-Estados correctos o de movimiento.
+
+¿Para qué sirve la herramienta Eyetracking?(3)
+-Obtener los datos sobre dónde mira el usuario.X
+-Técnica para llamar la atención del usuario a una zona de la pantalla.
+-Indica si los iconos son confusos.
+-Detecta los hipervínculos automáticamente.
+
+¿Cuál no es una respuesta psicológica del usuario antes un mal diseño web?(3)
+-Pánico.
+-Aburrimiento.
+-Confusión.
+-Uso parcial del sistema.X
+
+TEMA 3
+¿Cuál sería el orden idóneo en el desarrollo según la Ingeniería de la usabilidad y accesibilidad?(2)
+-Análisis de requisitos-Diseño-Prototipado-Evaluación-Implementación-Lanzamiento.X
+-Análisis de requisitos-Diseño-Evaluación-Prototipado-Implementación-Lanzamiento.
+-Análisis de requisitos-Prototipado-Diseño-Evaluación-Implementación-Lanzamiento.
+-Análisis de requisitos-Prototipado-Diseño-Implementación-Evaluación-Lanzamiento.
+
+¿Qué es un wireframe?(3)
+-Representación de baja fidelidad de un diseño web/app.X
+-Medio para representar con fidelidad el producto final, simulando la interacción con el usuario.
+-Medio para representar mayor fidelidad del diseño, de forma estática. Supone el
+diseño artístico o diseño visual final.
+-Muestra que representa parte del total de la aplicación software.
+
+¿Qué es un prototipo?(1)
+-Representación de baja fidelidad de un diseño web/app.
+-Medio para representar con fidelidad el producto final, simulando la interacción con el usuario.X
+-Medio para representar mayor fidelidad del diseño, de forma estática. Supone el
+diseño artístico o diseño visual final.
+-Muestra que representa parte del total de la aplicación software.
+
+¿Qué es un mockup?(2)
+-Representación de baja fidelidad de un diseño web/app.
+-Medio para representar con fidelidad el producto final, simulando la interacción con el usuario.
+-Medio para representar mayor fidelidad del diseño, de forma estática. Supone el
+diseño artístico o diseño visual final.X
+
+¿Cuál no es una ventaja del prototipado?(3)
+-Desarrollo cercano al usuario.
+-Rápida construcción de modelos validables y verificables por usuarios.
+-Fácil planificación.X
+-Mejor comunicación entre usuarios y productores de software.
+
+¿Cuál no es una desventaja del prototipado?(1)
+-Tiempos de desarrollo más largos.
+-Desarrollo sin contar con el usuario.X
+-Difícil planificación.
+-Difícil integración y uso de estándares.
+
+TEMA 4:
+¿Para qué sirve la accesibilidad?(1)
+-Asegurar que las personas discapacitadas son capaces de utilizar el software.X
+-Permite que la aplicación sea fácil de usar para cualquier usuario.
+-Para que un usuario pueda encontrar la información rápidamente.
+-Sirve para indicar que la aplicación funcionará perfectamente, sin problemas.
+
+¿Cuál es la iniciativa que permite potenciar los contenidos accesibles?(3)
+-W3C.
+-ATAG.
+-WAI.X
+-UAAG.
+
+¿Cuál de las siguientes no es ventaja de la accesibilidad?(1)
+-Reduce el coste en el mantenimiento.
+-Reduce el tiempo de carga.
+-Mejora la usabilidad.
+-Ninguna de las anteriores.X
+
+¿Cuál de las siguientes no es ventaja de la accesibilidad?(2)
+-Reduce el coste en el mantenimiento.
+-Reduce el tiempo de carga.
+-Mejora y amplia la posibilidad del uso de colores.X
+-Ninguna de las anteriores.
+
+¿Cuál es un principio de Diseño universal?(1)
+-Información perceptible.X
+-Alta complejidad.
+-Sin consistencia.
+-Difícil acceso.
+
+¿A qué se refiere el principio del diseño universal "Que exija poco esfuerzo físico"?(1)
+-El usuario pueda usar la interfaz cómodamente y con un mínimio de fatiga.X
+-Proporcione un tamaño y espacio apropiados.
+-Minimiza los riesgos y las consecuencias adversas de acciones involuntarias o accidentales.
+-El diseño se acomoda a un amplio rango de preferencias y habilidades individuales.
+
+¿Cuál es el significado del 2º principio del diseño universal "Uso flexible"?(2)
+-El usuario pueda usar la interfaz cómodamente y con un mínimio de fatiga.
+-Proporcione un tamaño y espacio apropiados.
+-Minimiza los riesgos y las consecuencias adversas de acciones involuntarias o accidentales.
+-El diseño se acomoda a un amplio rango de preferencias y habilidades individuales.X
+
+¿Cuál es el significado del 5º principio del diseño universal "Con tolerancia al error"?(2)
+-El usuario pueda usar la interfaz cómodamente y con un mínimio de fatiga.
+-Proporcione un tamaño y espacio apropiados.
+-Minimiza los riesgos y las consecuencias adversas de acciones involuntarias o accidentales.X
+-El diseño se acomoda a un amplio rango de preferencias y habilidades individuales.
+
+Cuál de las siguientes afirmaciones es falsa respecto las directrices ATAG.(3)
+-Las ATAG están pensadas principalmente para desarrolladores de herramientas de autor.
+-Los documentos ATAG explican cómo crear herramientas de autor accesibles.
+-Las herramientas de autor son aplicaciones que permiten un trabajo multimedia y constructivista para generar un entorno de aprendizaje estático.X
+-Las herramientas de autor básicas son aquellas que solamente permiten un conjunto limitado de acciones.
+
+Cuál de las siguientes afirmaciones es falsa respecto las directrices UAAG.(3)
+-Explican cómo crear agentes de usuario accesibles para personas con discapacidad.
+-Definen cómo los usuarios deberían poder controlar la forma en la que se visualizan los contenidos.
+-Significa "User Agent Accesibility Guidelines".
+-Documentan cómo confeccionar contenido web accesible para personas con discapacidad.X
+
+Cuál de los siguientes no es un principio fundamental de acceso al contenido según WCAG.(2)
+-Perceptible.
+-Comprensible.
+-Robusto.
+-Estética.X
+
+
+TEMA 5:
+¿Cuál es una ventaja de usar una interfaz por línea de órdenes de las vistas en clase?(3)
+-Potencialmente rápido para tareas complejas.X
+-La persona interactúa con un sistema a través del lenguaje natural.
+-Entrenamiento reducido, menos tecleo.
+-Los usuarios ven rápidamente el resultado de sus acciones.
+
+¿Cuál es una ventaja de usar una interfaz por lenguaje natural de las vistas en clase?(1)
+-Potencialmente rápido para tareas complejas.
+-La persona interactúa con un sistema a través del lenguaje natural.X
+-Entrenamiento reducido, menos tecleo.
+-Los usuarios ven rápidamente el resultado de sus acciones.
+
+¿Cuál es una ventaja de usar una interfaz por menú y navegación de las vistas en clase?(3)
+-Potencialmente rápido para tareas complejas.
+-La persona interactúa con un sistema a través del lenguaje natural.
+-Entrenamiento reducido, menos tecleo.X
+-Los usuarios ven rápidamente el resultado de sus acciones.
+
+¿Cuál es una ventaja de usar una interfaz por manipulación directa de las vistas en clase?(2)
+-Potencialmente rápido para tareas complejas.
+-La persona interactúa con un sistema a través del lenguaje natural.
+-Entrenamiento reducido, menos tecleo.
+-Los usuarios ven rápidamente el resultado de sus acciones.X
+
+¿Qué son los asistentes de interacción asistida?(1)
+-Son entidades computacionales que nos asisten en el uso de las aplicaciones existentes.X
+-Método de desarrollo que facilita la accesibilidad, únicamente mediante uso de voz.
+-Método de desarrollo de realización de un wireframe.
+-Aplicación web que nos ayuda a cómmo desarrollar nuestra interfaz.
+
+¿Cuál de los siguientes ejemplos no es un ejemplo de metáfora visual por fotorrealismo?(1)
+-Aplicaciones para hacer mezclas Dj, donde se intenta imitar una mesa de mezclas.
+-Aplicación de selección de libros en eBook que simula una estantería.
+-Aplicación de películas en Streaming, que para acceder a ver sus datos debes ir deslizando la pantalla usando la herramienta de Carrusel.X
+-Aplicación de calculadora que simula a una calculadora física.
+
+TEMA 6:
+¿Cuál de los siguientes no es un principio de Simpson?(1)
+-Mantener la consistencia.
+-Hacer programas complejos.X
+-No cargar la memoria de trabajo.
+-No abusar de la memoria a largo plazo.
+
+¿Cuál de los siguientes no es un principio de Simpson?(2)
+-Definir los usuarios.
+-Dejar el control a los usuarios.
+-Minimizar el trabajo de los usuarios.
+-Todos son principios de Simpson.X
+
+¿Cuál de los siguientes no es un principio de Simpson?(3)
+-Definir los usuarios.
+-Facilidad de aprendizaje.X
+-Minimizar el trabajo de los usuarios.
+-Todos son principios de Simpson.
+
+Respecto al principio de Mandel "Colocar a los usuarios en el control de la interfaz", cuál de las siguientes afirmaciones no indicaba:(1)
+-Proporcionar pistas visuales.X
+-Permitir a los usuarios cambiar la atención.
+-Mostrar mensajes y textos descriptivos.
+-Proporcionar acciones inmediatas, reversibles y realimentación.
+
+Respecto al principio de Mandel "Reducir la carga de memoria de los usuarios", cuál de las siguientes afirmaciones no indicaba:(3)
+-Proporcionar pistas visuales.
+-Proporcionar opciones por defecto.
+-Acomodar a los usuarios con diferentes niveles de habilidad.
+-Emplear metáforas del mundo real.
+
+¿Qué significa el principio "Apoyo" de IBM?(3)
+-Hay que proporcionar el control sobre el sistema al usuario y suministrarle asistencia para facilitar la realización de las tareas.X
+-Hacer los objetos y sus controles visibles e intuitivos.
+-Crear una sensación de progreso y logro en el usuario.
+-Soportar diversas técnicas de interacción, de forma que el usuario pueda seleccionar el método de interacción más apropiado para su situación.
+
+¿Qué significa el principio "Versatilidad" de IBM?(3)
+-Hay que proporcionar el control sobre el sistema al usuario y suministrarle asistencia para facilitar la realización de las tareas.
+-Hacer los objetos y sus controles visibles e intuitivos.
+-Crear una sensación de progreso y logro en el usuario.
+-Soportar diversas técnicas de interacción, de forma que el usuario pueda seleccionar el método de interacción más apropiado para su situación.X
+
+
+TEMA 7:
+Indica de las siguientes afirmaciones la que no sea recomendable paravel desarrollo web de Usability.gov (3)
+-Usa texto negro sobre un fondo con el que haya un gran contraste.
+-Asegura que el formato de los ítems es consistente de una página a otra.
+-Asegura consistencia visual de los elementos del sitio web dentro y entre páginas.
+-Usa al menos fuentes de 14 puntos.X
+
+Indica de las siguientes afirmaciones la que no sea recomendable paravel desarrollo web de Usability.gov (3)
+-Usa texto negro sobre un fondo con el que haya un gran contraste.
+-Asegura que el formato de los ítems es consistente de una página a otra.
+-Cuando uses codificación con color, te debes asegurar de que la codificación se puede entender fácil y rápidamente.
+-Usa varias formas de destacar la información.X
+
+Indica de las siguientes afirmaciones la que no sea recomendable paravel desarrollo web de Usability.gov (1)
+-Ordena los elementos para maximizar el rendimiento del usuario.
+-Coloca los ítems importantes al principio de la lista.
+-Haz una lista vertical de elementos relacionados en vez de un texto continuo.
+-Empieza las listas numeradas en 0.X
+
+Indica de las siguientes afirmaciones la que no sea recomendable paravel desarrollo web de Usability.gov (2)
+-Una etiqueta de botón debe indicar claramente su acción.
+-Los mismos campos son nombrados de distinta forma si aparecen en páginas distintas para poder diferenciarlos.X
+-Minimiza la entrada de usuario.
+-Las etiquetas deben estar próximas a los campos de entrada de datos.
+
+
+Indica de las siguientes afirmaciones la que no sea recomendable paravel desarrollo web de Usability.gov (2)
+-No se debe esperar que lo usuarios siempre introduzcan bien los datos.
+-Anticipa los errores típicos de los usuarios.
+-Divide los campos grandes tanto para entrada como para visualización.
+-Usa sólo un método de entrada de información.
+-Usa imágenes de fondo con muchos colores y repetidamente para evitar huecos en blanco.X
+
+Indica de las siguientes afirmaciones la que no sea recomendable paravel desarrollo web de Usability.gov (1)
+-Fíjate que el doble clic sobre un link no causará resultados no deseados o confusos.
+-Usa imágenes de fondo simples.
+-Usar audio de manera frecuente ayuda al usuario.X
+-Todas las imágenes en las que se puede hacer clic tienen su etiqueta.
+
+Sobre las ventanas emergentes en la usabilidad, indica la afirmación correcta
+-Actualmente son mejores.
+-Su accesibilidad está bien implementada.
+-El usuario contemplará la información mostrada.
+-Su contenido suele estar asociado a contenido etéreo y promoción.X
+
+
+TEMA 8:
+Cuáles de los siguientes no son principios de diseño para móviles(1)
+-Mover el dispositivo y que los objetos mostrados en pantalla se vean afectados.
+-No se recomienda el uso de animaciones tras la realización de una acción del usuario.X
+-Usar gestos para manipular los objetos en pantalla.
+-Ver que las propias acciones tienen resultados inmediatos y visibles.
+
+La Manipulación directa en el diseño para móviles consiste en(2)
+-El usuario se sienta más involucrado en la tarea y comprenda mejor los resultados de sus acciones.
+-Usar metáforas para comprender el uso de la app rápidamente.
+-La aplicación debe controlar e iniciar las acciones.X
+-Responde a las acciones del usuario y le asegura que se están procesando.
+
+Cuáles de los siguientes no son patrones recomendados para el diseño móvil(3)
+-Navegación.
+-Antipatrones.
+-Diagramas.
+-Maestro.X
+
+Cuáles de los siguientes no son patrones recomendados para el diseño móvil(1)
+-Formularios
+-Todos son recomendados.
+-Diagramas.
+-Herramientas.
